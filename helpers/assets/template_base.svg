@@ -1,0 +1,160 @@
+<svg width="700" height="{svgHeight-1}" viewBox="0 0 550 {svgHeight-2}" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    .msg-1 {
+      animation: wait 3.2s, msg-1 0.2s 3.2s;
+    }
+
+    .msg-2 {
+      animation: wait 5.2s, msg-2 0.2s 5.2s;
+    }
+
+    .msg-3 {
+      animation: wait 7.2s, msg-3 0.2s 7.2s;
+    }
+
+    .msg-4 {
+      animation: wait 9.2s, msg-4 0.2s 9.2s;
+    }
+
+    .msg-5 {
+      animation: wait 11.2s, msg-5 0.2s 11.2s;
+    }
+    
+    
+    .hi {
+      animation: wait 1.2s, hi 0.2s 1.2s, hideHi 0.2s 4.4s forwards;
+    }
+    .msg text, .hi text {
+      fill: {textColor};
+      font-size: 18px;
+      font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'sans-serif';
+    }
+
+    .tags text {
+    	font-size: 12px;
+      font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'sans-serif';
+    }
+        
+    @keyframes wait {
+      0%, 100% {
+        opacity: 0;
+      }
+    }
+    
+    @keyframes msg-1 {
+      0% {
+        opacity: 0;
+        transform: translate(215px, 12px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(215px, 7px);
+      }
+    }
+
+    @keyframes msg-2 { 
+      0% {
+        opacity: 0;
+        transform: translate(215px, 64px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(215px, 59px);
+      }
+    }
+
+    @keyframes msg-3 { 
+      0% {
+        opacity: 0;
+        transform: translate(215px, 116px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(215px, 111px);
+      }
+    }
+
+    @keyframes msg-4 { 
+      0% {
+        opacity: 0;
+        transform: translate(215px, 168px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(215px, 163px);
+      }
+    }
+
+    @keyframes msg-5 { 
+      0% {
+        opacity: 0;
+        transform: translate(12px, 218px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(7px, 215px);
+      }
+    }
+    
+    @keyframes hi {
+      0% {
+        opacity: 0;
+        transform: translate(15px, 20px);
+      }
+      100% {
+        opacity: 1;
+        transform: translate(15px, 15px);
+      }
+    }
+    @keyframes hideHi {
+      0% {
+        opacity: 1;
+      }
+      100% {
+        opacity: 0;
+      }
+    }
+    .color {
+    	fill: red;
+    }
+    .bg-color {
+    	fill: {bgColor};
+    }
+  </style>
+
+  <g transform="translate(10, 10)">
+      <image href="{img}" x="-3" y="3" width="200" height="190"/>
+
+    <rect x="0" y="0" width="194" height="192.5" stroke="{imageBorderColor}" stroke-width="6" fill="none" rx="10" ry="10"/>
+
+  </g>
+  
+  <g transform="translate(15, 15)" class="hi">
+    <rect width="57" height="42" rx="10" class="bg-color" />
+    <text x="15" y="27">👋</text>  
+  </g>
+
+  <g transform="translate(215, 7)" class="msg msg-1">
+    <rect width="{widthMsg1}" height="42" rx="10" class="bg-color" />
+    <text x="15" y="27">{msg1}</text>  
+  </g>
+  <g transform="translate(215, 59)" class="msg msg-2">
+    <rect width="{widthMsg2}" height="42" rx="10" class="bg-color" />
+    <text x="15" y="27">{msg2}</text>  
+  </g>
+  
+  <g transform="translate(215, 111)" class="msg msg-3">
+    <rect width="{widthMsg3}" height="42" rx="10" class="bg-color" />
+    <text x="15" y="27">{msg3}</text>  
+  </g>
+  
+  <g transform="translate(215, 163)" class="msg msg-4">
+    <rect width="{widthMsg4}" height="42" rx="10" class="bg-color" />
+    <text x="15" y="27">{msg4}</text>    
+  </g>
+  
+  <g transform="translate(7, 215)" class="tags msg-5">
+    <rect width="{SVG_TAG_WIDTH}" height="{tagHeight}" rx="10" fill="none"/>
+    {tags}
+  </g>
+</svg>

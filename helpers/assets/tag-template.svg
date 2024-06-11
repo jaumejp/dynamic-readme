@@ -1,0 +1,4 @@
+<g transform="translate({x}, {y})">
+    <rect width="{tagWidth}" height="25" rx="10" ry="10" fill="{fillColor}" stroke="{strokeColor}" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="{textColor}">{text}</text>   
+</g>

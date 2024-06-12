@@ -145,12 +145,12 @@
   
   <g transform="translate(215, 111)" class="msg msg-3">
     <rect width="360" height="42" rx="10" class="bg-color" />
-    <text x="15" y="27">I'm from Girona and today it's 19.9°C</text>  
+    <text x="15" y="27">I'm from Girona and today it's 16.6°C</text>  
   </g>
   
   <g transform="translate(215, 163)" class="msg msg-4">
     <rect width="360" height="42" rx="10" class="bg-color" />
-    <text x="15" y="27">Have a great Tuesday 👋</text>    
+    <text x="15" y="27">Have a great Wednesday 👋</text>    
   </g>
   
   <g transform="translate(7, 215)" class="tags msg-5">

@@ -4,7 +4,7 @@ COLOR_NAME = 'gray'
 
 # Comment the skills you don't have in the TECHNOLOGIES object in variables.py file.
 # RANDOM_TAGS => shuffle object to show random order every day.
-RANDOM_TAGS = False
+RANDOM_TAGS = True
 
 # 0 => spanish / 1 => english
 # Add new language on LANGUAGES object on variables.py file.

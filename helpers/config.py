@@ -13,7 +13,7 @@ LANG_ID = 1
 # Information
 YOUR_NAME = "Jaume"
 YOUR_ROLE = "Software Developer"
-YOUR_COMPANY = "Aetech"
+YOUR_COMPANY = "Zertifier"
 YOUR_LOCATION = 'Girona'
  
 # Measures

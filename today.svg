@@ -145,127 +145,127 @@
   
   <g transform="translate(215, 111)" class="msg msg-3">
     <rect width="360" height="42" rx="10" class="bg-color" />
-    <text x="15" y="27">I'm from Girona and today it's 10.3°C</text>  
+    <text x="15" y="27">I'm from Girona and today it's 7.0°C</text>  
   </g>
   
   <g transform="translate(215, 163)" class="msg msg-4">
     <rect width="360" height="42" rx="10" class="bg-color" />
-    <text x="15" y="27">Have a great Saturday 👋</text>    
+    <text x="15" y="27">Have a great Sunday 👋</text>    
   </g>
   
   <g transform="translate(7, 215)" class="tags msg-5">
     <rect width="575" height="200" rx="10" fill="none"/>
     <g transform="translate(0, 0)">
-    <rect width="58" height="25" rx="10" ry="10" fill="#FEF2F2" stroke="#D71013" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#D71013">Slack</text>   
-</g><g transform="translate(68, 0)">
-    <rect width="55" height="25" rx="10" ry="10" fill="#f7e6f6" stroke="#fc17ef" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#fc17ef">APIs</text>   
-</g><g transform="translate(133, 0)">
-    <rect width="57" height="25" rx="10" ry="10" fill="#FFFBE8" stroke="#9E5E09" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#9E5E09">Next</text>   
-</g><g transform="translate(200, 0)">
-    <rect width="84" height="25" rx="10" ry="10" fill="#F1FBE2" stroke="#456416" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#456416">MongoDB</text>   
-</g><g transform="translate(294, 0)">
-    <rect width="100" height="25" rx="10" ry="10" fill="#F5E7FF" stroke="#5402D0" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#5402D0">Tailwind CSS</text>   
-</g><g transform="translate(404, 0)">
-    <rect width="94" height="25" rx="10" ry="10" fill="#f7e6f6" stroke="#fc17ef" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#fc17ef">WebSockets</text>   
-</g><g transform="translate(0, 35)">
-    <rect width="80" height="25" rx="10" ry="10" fill="#FCFFFA" stroke="#003E84" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#003E84">GitLab CI</text>   
-</g><g transform="translate(90, 35)">
-    <rect width="58" height="25" rx="10" ry="10" fill="#f7e6e6" stroke="#f56767" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#f56767">Linux</text>   
-</g><g transform="translate(158, 35)">
-    <rect width="83" height="25" rx="10" ry="10" fill="#fffbf2" stroke="#f7b411" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#f7b411">VirtualBox</text>   
-</g><g transform="translate(251, 35)">
-    <rect width="58" height="25" rx="10" ry="10" fill="#ECFDF5" stroke="#09824F" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#09824F">Flask</text>   
-</g><g transform="translate(319, 35)">
-    <rect width="68" height="25" rx="10" ry="10" fill="#F5E7FF" stroke="#5402D0" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#5402D0">HTML5</text>   
-</g><g transform="translate(397, 35)">
-    <rect width="53" height="25" rx="10" ry="10" fill="#F9FAFD" stroke="#27364B" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#27364B">PHP</text>   
-</g><g transform="translate(460, 35)">
-    <rect width="66" height="25" rx="10" ry="10" fill="#F1FBE2" stroke="#456416" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#456416">SQLite</text>   
-</g><g transform="translate(0, 70)">
-    <rect width="66" height="25" rx="10" ry="10" fill="#F1FBE2" stroke="#456416" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#456416">Oracle</text>   
-</g><g transform="translate(76, 70)">
-    <rect width="53" height="25" rx="10" ry="10" fill="#f7e6f6" stroke="#fc17ef" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#fc17ef">JWT</text>   
-</g><g transform="translate(139, 70)">
-    <rect width="52" height="25" rx="10" ry="10" fill="#F9FAFD" stroke="#27364B" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#27364B">SQL</text>   
-</g><g transform="translate(201, 70)">
-    <rect width="54" height="25" rx="10" ry="10" fill="#EBFFFE" stroke="#3D93AC" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#3D93AC">AWS</text>   
-</g><g transform="translate(265, 70)">
-    <rect width="68" height="25" rx="10" ry="10" fill="#ECFDF5" stroke="#09824F" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#09824F">Laravel</text>   
-</g><g transform="translate(343, 70)">
-    <rect width="57" height="25" rx="10" ry="10" fill="#F5E7FF" stroke="#5402D0" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#5402D0">Sass</text>   
-</g><g transform="translate(410, 70)">
-    <rect width="70" height="25" rx="10" ry="10" fill="#ECFDF5" stroke="#09824F" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#09824F">Express</text>   
-</g><g transform="translate(490, 70)">
-    <rect width="51" height="25" rx="10" ry="10" fill="#FFFBE8" stroke="#9E5E09" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#9E5E09">Vue</text>   
-</g><g transform="translate(0, 105)">
-    <rect width="66" height="25" rx="10" ry="10" fill="#F1FBE2" stroke="#456416" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#456416">MySQL</text>   
-</g><g transform="translate(76, 105)">
-    <rect width="67" height="25" rx="10" ry="10" fill="#F9FAFD" stroke="#27364B" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#27364B">Python</text>   
-</g><g transform="translate(153, 105)">
-    <rect width="58" height="25" rx="10" ry="10" fill="#FFFBE8" stroke="#9E5E09" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#9E5E09">React</text>   
-</g><g transform="translate(221, 105)">
-    <rect width="80" height="25" rx="10" ry="10" fill="#F9FAFD" stroke="#27364B" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#27364B">JavaScript</text>   
-</g><g transform="translate(311, 105)">
-    <rect width="78" height="25" rx="10" ry="10" fill="#f7e6e6" stroke="#f56767" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#f56767">Windows</text>   
-</g><g transform="translate(399, 105)">
     <rect width="48" height="25" rx="10" ry="10" fill="#FEF4F3" stroke="#AB0D04" stroke-width="1"/>
     <text x="15" y="17" font-size="12" fill="#AB0D04">Git</text>   
-</g><g transform="translate(457, 105)">
-    <rect width="76" height="25" rx="10" ry="10" fill="#F1FBE2" stroke="#456416" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#456416">Firebase</text>   
-</g><g transform="translate(0, 140)">
-    <rect width="59" height="25" rx="10" ry="10" fill="#ECFDF5" stroke="#09824F" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#09824F">Node</text>   
-</g><g transform="translate(69, 140)">
+</g><g transform="translate(58, 0)">
+    <rect width="66" height="25" rx="10" ry="10" fill="#F1FBE2" stroke="#456416" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#456416">MySQL</text>   
+</g><g transform="translate(134, 0)">
     <rect width="57" height="25" rx="10" ry="10" fill="#F5E7FF" stroke="#5402D0" stroke-width="1"/>
     <text x="15" y="17" font-size="12" fill="#5402D0">CSS3</text>   
-</g><g transform="translate(136, 140)">
-    <rect width="49" height="25" rx="10" ry="10" fill="#FEF2F2" stroke="#D71013" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#D71013">Jira</text>   
-</g><g transform="translate(195, 140)">
-    <rect width="62" height="25" rx="10" ry="10" fill="#EBFFFE" stroke="#3D93AC" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#3D93AC">Azure</text>   
-</g><g transform="translate(267, 140)">
-    <rect width="108" height="25" rx="10" ry="10" fill="#FCFFFA" stroke="#003E84" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#003E84">GitHub Actions</text>   
-</g><g transform="translate(385, 140)">
-    <rect width="60" height="25" rx="10" ry="10" fill="#FEF2F2" stroke="#D71013" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#D71013">Trello</text>   
-</g><g transform="translate(455, 140)">
-    <rect width="72" height="25" rx="10" ry="10" fill="#fffbf2" stroke="#f7b411" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#f7b411">Docker</text>   
-</g><g transform="translate(0, 175)">
-    <rect width="63" height="25" rx="10" ry="10" fill="#FFFBE8" stroke="#9E5E09" stroke-width="1"/>
-    <text x="15" y="17" font-size="12" fill="#9E5E09">Svelte</text>   
-</g><g transform="translate(73, 175)">
+</g><g transform="translate(201, 0)">
     <rect width="55" height="25" rx="10" ry="10" fill="#F9FAFD" stroke="#27364B" stroke-width="1"/>
     <text x="15" y="17" font-size="12" fill="#27364B">Java</text>   
+</g><g transform="translate(266, 0)">
+    <rect width="66" height="25" rx="10" ry="10" fill="#F1FBE2" stroke="#456416" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#456416">SQLite</text>   
+</g><g transform="translate(342, 0)">
+    <rect width="63" height="25" rx="10" ry="10" fill="#FFFBE8" stroke="#9E5E09" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#9E5E09">Svelte</text>   
+</g><g transform="translate(415, 0)">
+    <rect width="52" height="25" rx="10" ry="10" fill="#F9FAFD" stroke="#27364B" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#27364B">SQL</text>   
+</g><g transform="translate(477, 0)">
+    <rect width="57" height="25" rx="10" ry="10" fill="#F5E7FF" stroke="#5402D0" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#5402D0">Sass</text>   
+</g><g transform="translate(0, 35)">
+    <rect width="66" height="25" rx="10" ry="10" fill="#F1FBE2" stroke="#456416" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#456416">Oracle</text>   
+</g><g transform="translate(76, 35)">
+    <rect width="78" height="25" rx="10" ry="10" fill="#f7e6e6" stroke="#f56767" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#f56767">Windows</text>   
+</g><g transform="translate(164, 35)">
+    <rect width="58" height="25" rx="10" ry="10" fill="#FEF2F2" stroke="#D71013" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#D71013">Slack</text>   
+</g><g transform="translate(232, 35)">
+    <rect width="68" height="25" rx="10" ry="10" fill="#F5E7FF" stroke="#5402D0" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#5402D0">HTML5</text>   
+</g><g transform="translate(310, 35)">
+    <rect width="80" height="25" rx="10" ry="10" fill="#F9FAFD" stroke="#27364B" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#27364B">JavaScript</text>   
+</g><g transform="translate(400, 35)">
+    <rect width="60" height="25" rx="10" ry="10" fill="#FEF2F2" stroke="#D71013" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#D71013">Trello</text>   
+</g><g transform="translate(470, 35)">
+    <rect width="94" height="25" rx="10" ry="10" fill="#f7e6f6" stroke="#fc17ef" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#fc17ef">WebSockets</text>   
+</g><g transform="translate(0, 70)">
+    <rect width="108" height="25" rx="10" ry="10" fill="#FCFFFA" stroke="#003E84" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#003E84">GitHub Actions</text>   
+</g><g transform="translate(118, 70)">
+    <rect width="55" height="25" rx="10" ry="10" fill="#f7e6f6" stroke="#fc17ef" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#fc17ef">APIs</text>   
+</g><g transform="translate(183, 70)">
+    <rect width="84" height="25" rx="10" ry="10" fill="#F1FBE2" stroke="#456416" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#456416">MongoDB</text>   
+</g><g transform="translate(277, 70)">
+    <rect width="58" height="25" rx="10" ry="10" fill="#ECFDF5" stroke="#09824F" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#09824F">Flask</text>   
+</g><g transform="translate(345, 70)">
+    <rect width="59" height="25" rx="10" ry="10" fill="#ECFDF5" stroke="#09824F" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#09824F">Node</text>   
+</g><g transform="translate(414, 70)">
+    <rect width="57" height="25" rx="10" ry="10" fill="#FFFBE8" stroke="#9E5E09" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#9E5E09">Next</text>   
+</g><g transform="translate(481, 70)">
+    <rect width="62" height="25" rx="10" ry="10" fill="#EBFFFE" stroke="#3D93AC" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#3D93AC">Azure</text>   
+</g><g transform="translate(0, 105)">
+    <rect width="70" height="25" rx="10" ry="10" fill="#ECFDF5" stroke="#09824F" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#09824F">Express</text>   
+</g><g transform="translate(80, 105)">
+    <rect width="83" height="25" rx="10" ry="10" fill="#fffbf2" stroke="#f7b411" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#f7b411">VirtualBox</text>   
+</g><g transform="translate(173, 105)">
+    <rect width="58" height="25" rx="10" ry="10" fill="#f7e6e6" stroke="#f56767" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#f56767">Linux</text>   
+</g><g transform="translate(241, 105)">
+    <rect width="51" height="25" rx="10" ry="10" fill="#FFFBE8" stroke="#9E5E09" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#9E5E09">Vue</text>   
+</g><g transform="translate(302, 105)">
+    <rect width="67" height="25" rx="10" ry="10" fill="#F9FAFD" stroke="#27364B" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#27364B">Python</text>   
+</g><g transform="translate(379, 105)">
+    <rect width="58" height="25" rx="10" ry="10" fill="#FFFBE8" stroke="#9E5E09" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#9E5E09">React</text>   
+</g><g transform="translate(447, 105)">
+    <rect width="54" height="25" rx="10" ry="10" fill="#EBFFFE" stroke="#3D93AC" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#3D93AC">AWS</text>   
+</g><g transform="translate(0, 140)">
+    <rect width="80" height="25" rx="10" ry="10" fill="#FCFFFA" stroke="#003E84" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#003E84">GitLab CI</text>   
+</g><g transform="translate(90, 140)">
+    <rect width="49" height="25" rx="10" ry="10" fill="#FEF2F2" stroke="#D71013" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#D71013">Jira</text>   
+</g><g transform="translate(149, 140)">
+    <rect width="53" height="25" rx="10" ry="10" fill="#f7e6f6" stroke="#fc17ef" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#fc17ef">JWT</text>   
+</g><g transform="translate(212, 140)">
+    <rect width="53" height="25" rx="10" ry="10" fill="#F9FAFD" stroke="#27364B" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#27364B">PHP</text>   
+</g><g transform="translate(275, 140)">
+    <rect width="76" height="25" rx="10" ry="10" fill="#F1FBE2" stroke="#456416" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#456416">Firebase</text>   
+</g><g transform="translate(361, 140)">
+    <rect width="68" height="25" rx="10" ry="10" fill="#ECFDF5" stroke="#09824F" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#09824F">Laravel</text>   
+</g><g transform="translate(439, 140)">
+    <rect width="100" height="25" rx="10" ry="10" fill="#F5E7FF" stroke="#5402D0" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#5402D0">Tailwind CSS</text>   
+</g><g transform="translate(0, 175)">
+    <rect width="72" height="25" rx="10" ry="10" fill="#fffbf2" stroke="#f7b411" stroke-width="1"/>
+    <text x="15" y="17" font-size="12" fill="#f7b411">Docker</text>   
 </g>
   </g>
 </svg>
